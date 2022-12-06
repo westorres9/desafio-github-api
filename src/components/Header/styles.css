@@ -1,0 +1,18 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 62px;
+    background-color: #1890FF;
+    font-weight: 500;
+    color: #fff;
+}
+
+.header-content {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.header-content h3 {
+    font-size: 24px;
+}
